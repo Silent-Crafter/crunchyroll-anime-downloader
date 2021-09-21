@@ -1,3 +1,6 @@
+# NOW WORKING ATM:
+## cant download with youtube-dl. some changes require to be made before using youtube-dl. these are client-specific. will be fied in near non-foreseeable future
+
 # crunchyroll-anime-downloader
 the script will download the anime with hardcoded english subs.
 pass the link of the episode and the video quality in the following way:
